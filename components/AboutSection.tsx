@@ -2,7 +2,7 @@
 import Image from 'next/image'
 import Reveal from './Reveal'
 
-const PROFILE = 'https://res.cloudinary.com/daxjhteb5/image/upload/v1779122804/WhatsApp_Image_2026-05-03_at_00.47.51_1_pypvhx.jpg'
+const PROFILE = 'https://res.cloudinary.com/geecu3mo/image/upload/v1793330225/WhatsApp_Image_2026-10-30_at_08.15.32.jpg'
 
 const STATS = [
   { icon: '🎵', num: '800+', label: 'Songs in the Vault' },
