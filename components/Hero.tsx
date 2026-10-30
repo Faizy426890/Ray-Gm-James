@@ -3,7 +3,7 @@ import Image from 'next/image'
 import { motion } from 'framer-motion'
 import { Play, ChevronDown } from 'lucide-react'
 
-const PROFILE = 'https://res.cloudinary.com/daxjhteb5/image/upload/v1777752217/WhatsApp_Image_2026-05-03_at_00.47.51_wkkium.jpg'
+const PROFILE = 'https://res.cloudinary.com/geecu3mo/image/upload/v1793330225/WhatsApp_Image_2026-10-30_at_08.15.32.jpg'
 
 const HERO_IMG = 'https://t4.ftcdn.net/jpg/08/44/99/67/360_F_844996789_BFT8WeCin0UWrGkU7H7BR2v0q4gaADWE.jpg'
 
