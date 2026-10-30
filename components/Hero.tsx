@@ -5,7 +5,7 @@ import { Play, ChevronDown } from 'lucide-react'
 
 const PROFILE = 'https://res.cloudinary.com/daxjhteb5/image/upload/v1777752217/WhatsApp_Image_2026-05-03_at_00.47.51_wkkium.jpg'
 
-const HERO_IMG = 'https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=1200&q=80'
+const HERO_IMG = 'https://t4.ftcdn.net/jpg/08/44/99/67/360_F_844996789_BFT8WeCin0UWrGkU7H7BR2v0q4gaADWE.jpg'
 
 export default function Hero() {
   const scrollDown = () =>
